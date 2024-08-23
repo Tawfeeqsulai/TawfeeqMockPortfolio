@@ -1,0 +1,195 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: rgb(6, 6, 6);
+}
+
+a:hover,
+a:active {
+    color: rgb(210, 35, 35);
+}
+
+.heading {
+    margin-top: 40px;
+    color: red;
+}
+
+.A {
+    border: solid;
+    border-color: white;
+    height: 700px;
+    background-color: white;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+
+.intro {
+    margin: 20px;
+    margin-top: 125px;
+    margin-left: 100px;
+    width: 30%;
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+}
+
+.goal {
+    margin: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 30%;
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+}
+.about {
+    margin: 0px;
+    border: solid;
+    border-color: none;
+    border-width: 0px;
+    background-color: #e09983;
+    border-radius: 0px;
+    height: 900px;
+}
+.detailbio {
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 100px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 100px;
+    font-family: sans-serif;
+    font-size: large;
+    line-height: 1.8;
+
+}
+
+.certification {
+    border: solid;
+    border-radius: 0px;
+    border-width: 0px;
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: aliceblue;
+    height: 800px;
+}
+.certificate {
+    margin: 0px;
+    margin-left: 100px;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.certimg {
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.projects {
+    background-color: black;
+    height: 800px;
+}
+
+.projectdiv {
+    margin: 0px;
+    margin-left: 100px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.contact {
+    background-color: silver;
+    padding: 20px;
+    padding-left: 100px;
+}
+ul{
+    display: inline;
+}
+.contcla{
+    display: inline;
+    padding: 20px;
+    padding-right: 10px;
+    margin-left: 70px;
+
+}       
+.contactdiv {
+    margin: 0px;
+    margin-left: 100px;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: large;
+    line-height: 1.8;
+    display: inline;
+}
+
+.navbar {
+    background-color: white;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 5px;
+
+}
+
+ol {
+    display: inline;
+}
+
+.licl {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+    border: solid;
+    border-color: rgb(17, 17, 19);
+    border-radius: 50px;
+}
+
+
+.logo {
+    height: 90px;
+    width: 120px;
+    display: inline;
+    margin-top: 20px;
+}
+
+.logo1 {
+    display: inline;
+    margin-bottom: 10px;
+    background-color: white;
+    
+}
+.img{
+    float: right;
+    margin: 30px;
+    margin-top: 50px;
+    height: 605px;
+    width: 500px;
+    margin-right: 150px;
+}
